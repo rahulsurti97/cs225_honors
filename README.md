@@ -18,21 +18,35 @@ Have fun!
 
 ## Usage
 
---Use 'w', 'a', 's', 'd' to move North, West, South, and East.\n
---Press 'q' to quit.\n
---Press 'i' to pick up items or interact with people.\n
---Press 'l' to look around the room.\n
---Press 'b' to see what you have in your bag.\n
---Press 'f' to find people or things of interest.\n
---Press 'g' to grab some coffee from locations with coffee shops.\n
---Press 'c' to drink some coffee.\n
-   The caffeine speeds up your brain and slows down time.\n
-   It's almost as if you went back in time by half an hour!\n
-   Too bad your caffeine tolerance is pretty low and you can only drink up to 3 cups a day.\n
---Press 'r' to read.\n
---Press 't' to check the time on your watch.\n
---Press 'p' to use the phone.\n
---Press 'x' to send a text.\n
+--Use 'w', 'a', 's', 'd' to move North, West, South, and East.
+
+--Press 'q' to quit.
+
+--Press 'i' to pick up items or interact with people.
+
+--Press 'l' to look around the room.
+
+--Press 'b' to see what you have in your bag.
+
+--Press 'f' to find people or things of interest.
+
+--Press 'g' to grab some coffee from locations with coffee shops.
+
+--Press 'c' to drink some coffee.
+
+   The caffeine speeds up your brain and slows down time.
+
+   It's almost as if you went back in time by half an hour!
+
+   Too bad your caffeine tolerance is pretty low and you can only drink up to 3 cups a day.
+
+--Press 'r' to read.
+
+--Press 't' to check the time on your watch.
+
+--Press 'p' to use the phone.
+
+--Press 'x' to send a text.
 
 ## License
 
