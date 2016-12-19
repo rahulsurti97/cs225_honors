@@ -34,11 +34,11 @@ Have fun!
 
 --Press 'c' to drink some coffee.
 
-   The caffeine speeds up your brain and slows down time.
+	The caffeine speeds up your brain and slows down time.
 
-   It's almost as if you went back in time by half an hour!
+	It's almost as if you went back in time by half an hour!
 
-   Too bad your caffeine tolerance is pretty low and you can only drink up to 3 cups a day.
+	Too bad your caffeine tolerance is pretty low and you can only drink up to 3 cups a day.
 
 --Press 'r' to read.
 
